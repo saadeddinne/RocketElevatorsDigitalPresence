@@ -8,17 +8,6 @@
 
 <h1 align="center"> 🚀 Rocke Elevator Version03 By Saad eddine</h1>
 
-<p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/saadeddinne/version0-3?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/saadeddinne/version0-3?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/saadeddinne/version0-3?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/{{saadeddinne}}/version0-3?color=56BEB8">
-
-</p>
-
 <!-- Status -->
 
 <h4 align="center">
@@ -61,13 +50,13 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements
 
-No reuirements
+No requirements
 
 ## :memo: License
 
 This project is under license from CodeBoxx.
 
-Made with :heart: by <a href="https://github.com/{{saadeddine}}" target="_blank">{{SaadEddine}}</a>
+Made with :heart: by <a href="https://github.com/saadeddinne" target="_blank">{{SaadEddine}}</a>
 
 &#xa0;
 
