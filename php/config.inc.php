@@ -9,6 +9,8 @@ $config['use_smtp']				= true;						// true|false
 /**
 	SMTP Server Settings
 
+	
+
 	PLEASE NOTE
 	External SMTP (like gmail) is disabled/firewalled by most hosting providers.
 	Please, create an intenal email addres like: noreply@yourdomain.com

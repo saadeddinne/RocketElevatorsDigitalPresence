@@ -10078,7 +10078,7 @@ footer.sticky {
 
 @media (pointer: coarse) and (hover: none) {
 	header {
-		background: url("/assets/images/aw04.png") black no-repeat center center
+		background: url("/assets/images/award4.png") black no-repeat center center
 			scroll;
 	}
 	header video {
@@ -10306,3 +10306,4 @@ body {
 	background: #bf3322;
 	color: #ffffff;
 }
+/* STYLE REQUEST QUOTE PAGE */
