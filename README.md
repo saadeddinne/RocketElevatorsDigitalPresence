@@ -26,7 +26,8 @@
 
 ## :dart: About
 
-Making a digital presence of a company called Rocket Elevators.
+1. Making a digital presence of a company called Rocket Elevators.
+2. A form with javascript, who calculate on the same page the cost of a project according to the information provided by the visitor of the site.
 
 ## :sparkles: Features
 
@@ -50,7 +51,7 @@ No requirements
 
 ## :memo: License
 
-This project is under license from CodeBoxx.
+- This project is under license from CodeBoxx.
 
 Made with :heart: by <a href="https://github.com/saadeddinne" target="_blank">{{SaadEddine}}</a>
 
