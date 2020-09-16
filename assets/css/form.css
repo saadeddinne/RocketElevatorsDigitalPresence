@@ -52,3 +52,8 @@
 	box-shadow: 10px 10px 5px grey;
 	/* height: 80vh; */
 }
+#nbElevator,
+#unitPrice {
+	-webkit-appearance: none;
+	-moz-appearance: textfield;
+}
